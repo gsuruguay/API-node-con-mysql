@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-**Utilizando una base de datos MySQL, se crea una API donde se puede crear, modificar, consultar y eliminar libros de una tabla "books". Esta tabla tiene un ID, name, isbn, author**
+**Utilizando una base de datos MySQL, se crea una API donde se puede crear, modificar, consultar y eliminar libros de una tabla "books". Esta tabla tiene un ID, name, isbn, author y status**
 
 ## Los endpoints de la API son los siguientes:
 
