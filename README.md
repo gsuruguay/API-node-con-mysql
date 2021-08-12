@@ -18,6 +18,6 @@
 * Importar la DB contenida en la carpeta "Database"
 * Modificar los datos de acceso a la DB local.
 * Ejecutar por consola desde la carpeta raiz del proyecto **npm install** para instalar las dependencias usadas (express, mysql, express-myconnection).
-* Se accede por **http://localhost:3333/**
+* Se accede por **http://localhost:3333/books**
 
 
