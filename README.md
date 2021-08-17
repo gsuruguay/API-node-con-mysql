@@ -7,9 +7,13 @@
 ## Los endpoints de la API son los siguientes:
 
 * GET "/books": Obtiene un listado de toda la tabla "books".
+* GET "/authors": Obtiene un listado de toda la tabla "authors".
 * GET "/books/:id": Obtiene la información de un libro en particular según su ID, por ejemplo "/books/5"
+* GET "/authors/:id": Obtiene la información de un author en particular según su ID, por ejemplo "/authors/5"
 * POST "/books": Crea un nuevo libro según la información suministrada por el usuario.
+* POST "/authors": Crea un nuevo author según la información suministrada por el usuario.
 * PUT "/books/:id": Modifica los datos de un libro en particular según su ID.
+* PUT "/authors/:id": Modifica los datos de un author en particular según su ID.
 * DELETE "/books/:id": Elimina un libro de la vista. (Se cambia el status a 0)
 
 
